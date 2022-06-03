@@ -125,7 +125,7 @@ p {
 }
 
 .lh-20 {
-  line-height: 20px;
+  line-height: 70px;
 }
 
 .lh-16 {
@@ -166,7 +166,7 @@ p {
 }
 
 .btn:focus {
-  background: #6070ff;
+  background: #2230d2;
   color: #fff;
 }
 
@@ -188,12 +188,24 @@ p {
   padding: 1rem 1.5rem;
   align-items: center;
   justify-content: space-between;
+  position: relative;
 }
 
 .navbar__link {
   color: #6070ff;
+  animation-name: rotate-logo;
+  animation-duration: 1.5s;
+  animation-iteration-count: 1;
 }
+@keyframes rotate-logo {
+  50% {
+    transform: scale(1.5) rotate(360deg) translateX(-50%);
+  }
 
+  to {
+    transform: scale(1) rotate(720deg) translateX(0);
+  }
+}
 .navbar__menu {
   display: none;
 }
@@ -481,6 +493,24 @@ p {
 
 @media (min-width: 992px) {
   .navbar {
+  padding: 1rem 1.5rem;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+}
+
+.navbar__link {
+  color: #6070ff;
+  animation-name: rotate-logo;
+  animation-duration: 1.5s;
+  animation-iteration-count: 1;
+}
+  .navbar__menu__link:hover {
+    color: #396df2;
+    font-size: 34px;
+  }
+
+  .navbar {
     padding: 1.5rem 8rem;
   }
 
@@ -492,6 +522,16 @@ p {
   .navbar__menu__li {
     margin: 0 16px;
   }
+  @keyframes rotate-logo {
+  50% {
+    transform: scale(1.5) rotate(360deg) translateX(-50%);
+  }
+
+  to {
+    transform: scale(1) rotate(720deg) translateX(0);
+  }
+}
+
 
   .navbar__hamb {
     display: none;
