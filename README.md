@@ -5,8 +5,7 @@
 Description the project.
 For the fourth project in your portfolio website, you will:
 
-Use media queries to make sure that your website displays correctly on desktop screens.
-You have time for this project scheduled in to 2 days. Please ask for a code review when you are ready.
+In this exercise, you will add some transitions and animations to your portfolio website. You will complete the work by doing pair programming with your coding partner to implement the changes to both of your projects. Let's make our portfolios more attractive!
 
 IMPORTANT NOTE: Read all requirements before you start building your project.
 
