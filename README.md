@@ -3,9 +3,7 @@
 # Desktop-portfolio Version.
 
 Description the project.
-For the fourth project in your portfolio website, you will:
-
-In this exercise, you will add some transitions and animations to your portfolio website. You will complete the work by doing pair programming with your coding partner to implement the changes to both of your projects. Let's make our portfolios more attractive!
+For this milestone you will make your website available online.
 
 IMPORTANT NOTE: Read all requirements before you start building your project.
 
