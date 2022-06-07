@@ -42,7 +42,7 @@ npm init -y or (npm install --save-dev hint@6.x)
 npm start
 ```
 
-And you can start demo via `https://godfrey-alimony.github.io/Desktop-Portfolio-Version/`
+And you can start demo via [link](https://godfrey-alimony.github.io/Desktop-Portfolio-Version/)
 
 ### 4. Builds for publish
 
