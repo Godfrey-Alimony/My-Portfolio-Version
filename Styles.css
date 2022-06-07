@@ -622,7 +622,7 @@ p {
   .contact {
     padding: 6rem 8.875rem;
     background: #fff;
-    max-width: 901px;
+    max-width: 100%;
   }
 
   .contact__dsc {
@@ -638,7 +638,7 @@ p {
 
   .contact__container form li input,
   .contact__container form li textarea {
-    max-width: 901px;
+    max-width: 100%;
   }
 
   .contact__container form li:last-child {
