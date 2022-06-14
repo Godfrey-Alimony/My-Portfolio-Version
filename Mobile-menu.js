@@ -7,7 +7,6 @@ const heroLanding = document.querySelector(".hero");
 function isActiveClassExisted(element) {
   return element.classList.contains("active");
 }
-c;
 
 function refreshIcon() {
   if (isActiveClassExisted(menu)) {
