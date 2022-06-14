@@ -11,6 +11,7 @@ IMPORTANT NOTE: Read all requirements before you start building your project.
 
 HTML
 CSS
+JavaScript
 Linters
 
 ### Getting Started
@@ -42,7 +43,7 @@ npm init -y or (npm install --save-dev hint@6.x)
 npm start
 ```
 
-And you can start demo via `https://godfrey-alimony.github.io/Desktop-Portfolio-Version/`
+And you can start demo via [link](https://godfrey-alimony.github.io/Desktop-Portfolio-Version/)
 
 ### 4. Builds for publish
 
@@ -55,14 +56,14 @@ And you can get the builds from `./web` folder
 
 ### Folder Structure of Source Code
 
-`./Desktop-Portfolio-version/icons` all icons files
-`./Desktop-Portfolio-version/images` all images files
-`./Desktop-Portfolio-version/img` all img files
-`./Desktop-Portfolio-version/Desktop.css` file
-`./Desktop-Portfolio-version/Desktop.html` file
-`./Desktop-Portfolio-version/MIT` file
-`./Desktop-Portfolio-version/README`file
-`./Desktop-Portfolio-version/package.json files
+`./My-Portfolio-version/icons` all icons files
+`./My-Portfolio-version/images` all images files
+`./My-Portfolio-version/img` all img files
+`./My-Portfolio-version/Desktop.css` file
+`./My-Portfolio-version/Desktop.html` file
+`./My-Portfolio-version/MIT` file
+`./My-Portfolio-version/README`file
+`./My-Portfolio-version/package.json files
 
 ### Deployment
 
@@ -72,8 +73,11 @@ To run this project in your local environment,you can use this [link](https://go
 
 👤 **Alimony Godfrey**
 
+
 - GitHub:[@Alimony-Godfrey](https://github.com/Godfrey-Alimony)
 - LinkedIn:[@Alimony Godfrey](https://www.linkedin.com/in/alimony-godfrey-8aba3136)
+
+👤**Adebowale Adegboye**
 
 🤝 Contributing
 
