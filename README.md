@@ -43,7 +43,7 @@ npm init -y or (npm install --save-dev hint@6.x)
 npm start
 ```
 
-And you can start demo via `https://godfrey-alimony.github.io/Desktop-Portfolio-Version/`
+And you can start demo via [link](https://godfrey-alimony.github.io/Desktop-Portfolio-Version/)
 
 ### 4. Builds for publish
 
@@ -73,8 +73,11 @@ To run this project in your local environment,you can use this [link](https://go
 
 👤 **Alimony Godfrey**
 
+
 - GitHub:[@Alimony-Godfrey](https://github.com/Godfrey-Alimony)
 - LinkedIn:[@Alimony Godfrey](https://www.linkedin.com/in/alimony-godfrey-8aba3136)
+
+👤**Adebowale Adegboye**
 
 🤝 Contributing
 
