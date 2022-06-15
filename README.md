@@ -74,7 +74,7 @@ To run this project in your local environment,you can use this [link](https://go
 👤 **Alimony Godfrey**
 
 - GitHub:[@Alimony-Godfrey](https://github.com/Godfrey-Alimony)
-- LinkedIn:[@Alimony Godfrey](https://www.linkedin.com/in/alimony-godfrey-8aba3136)
+- LinkedIn:[@Alimony-Godfrey](https://www.linkedin.com/in/alimony-godfrey-8aba3136)
 
 🤝 Contributing
 
