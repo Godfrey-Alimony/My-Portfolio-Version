@@ -1,9 +1,9 @@
 [@Alimony-Godfrey](https://github.com/Godfrey-Alimony)
 
-# Desktop-portfolio Version.
+# Portfolio: details popup window.
 
 Description the project.
-For this milestone you will make your website available online.
+For this milestone of your portfolio website, you will implement a popup window that includes the project details in both desktop and mobile. In order to do that, you will need to store the information about your projects in a JavaScript object.
 
 IMPORTANT NOTE: Read all requirements before you start building your project.
 
@@ -11,6 +11,7 @@ IMPORTANT NOTE: Read all requirements before you start building your project.
 
 HTML
 CSS
+Javascript
 Linters
 
 ### Getting Started
@@ -55,14 +56,14 @@ And you can get the builds from `./web` folder
 
 ### Folder Structure of Source Code
 
-`./Desktop-Portfolio-version/icons` all icons files
-`./Desktop-Portfolio-version/images` all images files
-`./Desktop-Portfolio-version/img` all img files
-`./Desktop-Portfolio-version/Desktop.css` file
-`./Desktop-Portfolio-version/Desktop.html` file
-`./Desktop-Portfolio-version/MIT` file
-`./Desktop-Portfolio-version/README`file
-`./Desktop-Portfolio-version/package.json files
+`./My-Portfolio-version/icons` all icons files
+`./My-Portfolio-version/images` all images files
+`./My-Portfolio-version/img` all img files
+`./My-Portfolio-version/Styles.css` file
+`./My-Portfolio-version/index.html` file
+`./My-Portfolio-version/MIT` file
+`./My-Portfolio-version/README`file
+`./My-Portfolio-version/package.json files
 
 ### Deployment
 
