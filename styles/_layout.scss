@@ -1,4 +1,4 @@
-@import 'variables';
+@import "variables";
 
 .navbar {
   padding: 1rem 1.5rem;
@@ -20,10 +20,10 @@
 }
 
 .head::before {
-  content: '';
+  content: "";
   position: absolute;
   background-color: $clr-neutral-100;
-  background-image: url('https://raw.githubusercontent.com/silviatofana/portfolio/mobile-version/images/shapes.png');
+  background-image: url("");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -217,10 +217,10 @@
 }
 
 .contact::before {
-  content: '';
+  content: "";
   position: absolute;
   background-color: $clr-primary-400;
-  background-image: url('https://raw.githubusercontent.com/silviatofana/portfolio/images/contact-form-shapes-mobile.svg');
+  background-image: url("");
   background-size: contain;
   background-position: right;
   background-origin: content-box;
