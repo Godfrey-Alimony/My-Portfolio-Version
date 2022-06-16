@@ -1,22 +1,4 @@
 {
-  "name": "my-portfolio-version",
-  "version": "1.0.0",
-  "description": "[@Alimony-Godfrey](https://github.com/Godfrey-Alimony)",
-  "main": "Mobile-menu.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Godfrey-Alimony/My-Portfolio-Version.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Godfrey-Alimony/My-Portfolio-Version/issues"
-  },
-  "homepage": "https://github.com/Godfrey-Alimony/My-Portfolio-Version#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
