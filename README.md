@@ -3,7 +3,7 @@
 # Desktop-portfolio Version.
 
 Description the project.
-For this milestone you will make your website available online.
+For this milestone of your portfolio website,you will implement the mobile menu using your recent acquired javaScript knowledge.
 
 IMPORTANT NOTE: Read all requirements before you start building your project.
 
@@ -11,6 +11,7 @@ IMPORTANT NOTE: Read all requirements before you start building your project.
 
 HTML
 CSS
+JavaScripts
 Linters
 
 ### Getting Started
