@@ -1,6 +1,6 @@
 [@Alimony-Godfrey](https://github.com/Godfrey-Alimony)
 
-# Portfolio: details popup window.
+# Desktop-portfolio Version.
 
 Description the project.
 For this milestone of your portfolio website, you will implement a popup window that includes the project details in both desktop and mobile. In order to do that, you will need to store the information about your projects in a JavaScript object.
@@ -11,8 +11,9 @@ IMPORTANT NOTE: Read all requirements before you start building your project.
 
 HTML
 CSS
-Javascript
+JavaScript
 Linters
+.eslintrc
 
 ### Getting Started
 
@@ -43,7 +44,7 @@ npm init -y or (npm install --save-dev hint@6.x)
 npm start
 ```
 
-And you can start demo via `https://godfrey-alimony.github.io/Desktop-Portfolio-Version/`
+And you can start demo via [link](https://godfrey-alimony.github.io/Desktop-Portfolio-Version/)
 
 ### 4. Builds for publish
 
@@ -59,8 +60,8 @@ And you can get the builds from `./web` folder
 `./My-Portfolio-version/icons` all icons files
 `./My-Portfolio-version/images` all images files
 `./My-Portfolio-version/img` all img files
-`./My-Portfolio-version/Styles.css` file
-`./My-Portfolio-version/index.html` file
+`./My-Portfolio-version/Desktop.css` file
+`./My-Portfolio-version/Desktop.html` file
 `./My-Portfolio-version/MIT` file
 `./My-Portfolio-version/README`file
 `./My-Portfolio-version/package.json files
@@ -74,7 +75,9 @@ To run this project in your local environment,you can use this [link](https://go
 👤 **Alimony Godfrey**
 
 - GitHub:[@Alimony-Godfrey](https://github.com/Godfrey-Alimony)
-- LinkedIn:[@Alimony-Godfrey](https://www.linkedin.com/in/alimony-godfrey-8aba3136)
+- LinkedIn:[@Alimony Godfrey](https://www.linkedin.com/in/alimony-godfrey-8aba3136)
+
+👤**Adebowale Adegboye**
 
 🤝 Contributing
 
