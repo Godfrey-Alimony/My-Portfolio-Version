@@ -3,7 +3,7 @@
 # Desktop-portfolio Version.
 
 Description the project.
-For this milestone you will make your website available online.
+For this milestone of your portfolio website,you will implement a clent side validation of the data in the contact form before submission.
 
 IMPORTANT NOTE: Read all requirements before you start building your project.
 
@@ -13,6 +13,7 @@ HTML
 CSS
 JavaScript
 Linters
+.eslintrc
 
 ### Getting Started
 
@@ -72,7 +73,6 @@ To run this project in your local environment,you can use this [link](https://go
 ## Authors
 
 👤 **Alimony Godfrey**
-
 
 - GitHub:[@Alimony-Godfrey](https://github.com/Godfrey-Alimony)
 - LinkedIn:[@Alimony Godfrey](https://www.linkedin.com/in/alimony-godfrey-8aba3136)
