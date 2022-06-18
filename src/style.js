@@ -123,9 +123,8 @@ const modalCard = [
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It ",
     languagesD: ['github', 'ruby', 'Bootstrap'],
     languagesM: ['html', 'css', 'javascript'],
-    linkLive: 'https://godfrey-alimony.github.io/My-Portfolio-Version/',
-    linkSource:
-      'https://github.com/Godfrey-Alimony/My-Portfolio-Version/tree/Form-Validation',
+    linkLive: 'https://silviatofana.github.io/portfolio/',
+    linkSource: 'https://github.com/silviatofana/portfolio/tree/popup-window',
   },
 ];
 
@@ -221,4 +220,34 @@ form.addEventListener('submit', (event) => {
   } else {
     displayMsg.style.visibility = 'hidden';
   }
+});
+
+// Local storage functionality
+let formData = {
+  full_name: '',
+  email: '',
+  message: '',
+};
+
+// retrieving the local storage
+if (localStorage.getItem('formData') !== null) {
+  const data = localStorage.getItem('formData');
+  formData = JSON.parse(data);
+}
+
+// saving data to local storage
+
+// getting form input fields and textarea
+const formElements = document.querySelectorAll('input, textarea');
+// looping through the elements
+formElements.forEach((element) => {
+  // displaying the formData values to input fields
+  element.value = formData[element.name];
+  // applying input event listener on elements
+  element.addEventListener('input', (e) => {
+    // setting the values of input fields to the respective keys in object
+    formData[e.target.name] = e.target.value;
+    // saving the data in local storage
+    localStorage.setItem('formData', JSON.stringify(formData));
+  });
 });
